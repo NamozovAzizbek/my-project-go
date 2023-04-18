@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/NamozovAzizbek/my-project-go/src/grab/authz"
-	"github.com/NamozovAzizbek/my-project-go/src/grab/users"
+	"github.com/NamozovAzizbek/my-project-go/src/grab/pkg/authz"
+	"github.com/NamozovAzizbek/my-project-go/src/grab/pkg/users"
 	"github.com/aserto-demo/go-rbac/pkg/server"
 	"github.com/gorilla/mux"
 )
