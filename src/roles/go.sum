@@ -1,2 +1,6 @@
+github.com/NamozovAzizbek/my-project-go v0.0.0-20230418182414-f1843f663efe h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/NamozovAzizbek/my-project-go v0.0.0-20230418182414-f1843f663efe/go.mod h1:DXM82jj0p4ivkBs3iP8/mkA92U/zGWmRQguhen9ngL4=
+github.com/aserto-demo/go-rbac v0.0.0-20220324160725-79d62bb05b09 h1:IwH0UrPIGzxKP8gaRCin6TnxPPdpkmtPIdfnpEOLM5U=
+github.com/aserto-demo/go-rbac v0.0.0-20220324160725-79d62bb05b09/go.mod h1:9D/nBZaZanXG/wqMPCmik2Kt6xXgSUC5HdMnYCRAPqo=
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=

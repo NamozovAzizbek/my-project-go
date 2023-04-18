@@ -1,0 +1,15 @@
+{
+    "clone": {
+      "gather": ["megaSeeds", "timeCrystals"]
+    },
+    "sidekick": {
+      "gather": ["megaSeeds", "timeCrystals"],
+      "consume": ["megaSeeds", "timeCrystals"]
+    },
+    "evilGenius": {
+      "gather": ["megaSeeds", "timeCrystals"],
+      "consume": ["megaSeeds", "timeCrystals"],
+      "destroy": ["megaSeeds", "timeCrystals"]
+    }
+  }
+  
