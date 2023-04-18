@@ -1,0 +1,14 @@
+[
+  {
+    "id": "beth@the-smiths.com",
+    "roles": ["clone"]
+  },
+  {
+    "id": "morty@the-citadel.com",
+    "roles": ["sidekick"]
+  },
+  {
+    "id": "rick@the-citadel.com",
+    "roles": ["evilGenius", "squanch"]
+  }
+]
