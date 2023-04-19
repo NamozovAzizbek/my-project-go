@@ -4,11 +4,6 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/you/client/internal/account"
-	"github.com/you/client/internal/customer"
-	"github.com/you/client/internal/doc"
-	"github.com/you/client/internal/pkg/authorisation"
-
 	"github.com/julienschmidt/httprouter"
 )
 
