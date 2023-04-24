@@ -113,6 +113,15 @@ func (u *User) FindUserById(db *gorm.DB, uid uint32) (*User, error) {
 	return u, err
 }
 
+func (u *User) FindAllUsers(db *gorm.DB)(*[]User, error){
+	var err error
+	users := []User{}
+	err = db.Debug().Model(&User{}).Limit(100).Find(&users).Error
+	if err != nil{
+		return &[]User{}, err
+	}
+	return &users, err
+}
 func (u *User) UpdateUser(db *gorm.DB, uid uint32) (*User, error) {
 	// To hash the password
 	err := u.BeforeSave()
